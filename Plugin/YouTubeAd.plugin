@@ -1,3 +1,10 @@
+#!name=YouTube去广告
+#!desc=解除部分视频广告
+#!openUrl=https://github.com/xy464193/ios-rule-script
+#!author=xy464193
+#!homepage=https://github.com/xy464193/ios-rule-script
+#!icon= https://raw.githubusercontent.com/xy464193/ios-rule-script/main/IconSet/YouTube1.png
+
 [URL Rewrite]
 (^https?:\/\/[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+?)&ctier=L(&.+?),ctier,(.+) $1$2$3 header
 ^https?:\/\/[\w-]+\.googlevideo\.com\/(?!(dclk_video_ads|videoplayback\?)).+&oad - reject
