@@ -3,15 +3,22 @@
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2023-03-18
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 6
+# DOMAIN-SUFFIX: 12
 # IP-CIDR: 14
-# TOTAL: 20
-DOMAIN-SUFFIX, ai.com
-DOMAIN-SUFFIX, openai.com
-DOMAIN-SUFFIX, vimeo.com
-DOMAIN-SUFFIX, vimeocdn.com
-DOMAIN-SUFFIX, hcaptcha.com
-DOMAIN-SUFFIX, akamaized.com
+# TOTAL: 27
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-KEYWORD,openai
 IP-CIDR,13.107.237.69/32,no-resolve
 IP-CIDR,13.107.238.69/32,no-resolve
 IP-CIDR,172.67.155.131/32,no-resolve
