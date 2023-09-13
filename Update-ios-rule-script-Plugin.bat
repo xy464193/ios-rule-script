@@ -1,6 +1,8 @@
 @echo off
 cd Plugin
 proxychains wget https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Advertising/Advertising.plugin -O Advertising.plugin
+proxychains wget https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/AllInOne/AllInOne.plugin -O AllInOne.plugin
+proxychains wget https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/AdBlock.plugin -O AdBlock.plugin
 proxychains wget https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/Amap_remove_ads.plugin -O Amap_remove_ads.plugin
 proxychains wget https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/WexinMiniPrograms_Remove_ads.plugin -O WexinMiniPrograms_Remove_ads.plugin
 proxychains wget https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/Node_detection_tool.plugin -O Node_detection_tool.plugin
@@ -21,4 +23,5 @@ proxychains wget https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master
 proxychains wget https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-KR.plugin -O TikTok-KR.plugin
 proxychains wget https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-KR.plugin -O TikTok-KR.plugin
 proxychains wget https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-US.plugin -O TikTok-US.plugin
+
 pause

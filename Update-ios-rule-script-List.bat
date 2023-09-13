@@ -33,4 +33,5 @@ proxychains wget https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/
 proxychains wget https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMax/ChinaMax_Domproxychainsn.list -O ChinaMax_Domproxychainsn.list
 proxychains wget https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinproxychainsPs/ChinproxychainsPs.list -O ChinproxychainsPs.list
 proxychains wget https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaASN/ChinaASN.list -O ChinaASN.list
+proxychains wget https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Spotify/Spotify.list -O Spotify.list
 pause
