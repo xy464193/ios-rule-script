@@ -6,17 +6,7 @@
 #!icon= https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/TikTok.png
 
 [Rule]
-DOMAIN-SUFFIX,byteoversea.com,JP日本
-DOMAIN-SUFFIX,ibytedtos.com,JP日本
-DOMAIN-SUFFIX,ipstatp.com,JP日本
-DOMAIN-SUFFIX,muscdn.com,JP日本
-DOMAIN-SUFFIX,musical.ly,JP日本
-DOMAIN-SUFFIX,tik-tokapi.com,JP日本
-DOMAIN-SUFFIX,tiktok.com,JP日本
-DOMAIN-SUFFIX,tiktokcdn.com,JP日本
-DOMAIN-SUFFIX,tiktokv.com,JP日本
-DOMAIN-KEYWORD,-tiktokcdn-com,JP日本
-USER-AGENT,tiktok*,JP日本
+
 
 [URL Rewrite]
 (?<=_region=)CN(?=&) JP 307
