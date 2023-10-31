@@ -35,6 +35,9 @@ DOMAIN, mtrace.qq.com, REJECT
 DOMAIN, otheve.beacon.qq.com, REJECT
 DOMAIN, p.l.qq.com, REJECT
 DOMAIN, pgdt.gtimg.cn, REJECT
+DOMAIN, yoo.gtimg.com, REJECT
+DOMAIN, tvpic.gtimg.cn, REJECT
+DOMAIN, wa.gtimg.cn, REJECT
 DOMAIN, rpt.gdt.qq.com, REJECT
 DOMAIN, tpns.qq.com, REJECT
 DOMAIN, tytx.m.cn.miaozhen.com, REJECT
