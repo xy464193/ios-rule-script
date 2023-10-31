@@ -18,10 +18,10 @@ proxychains wget https://raw.githubusercontent.com/Tartarus2014/Loon-Script/mast
 proxychains wget https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/AutoPolicy/auto-policy.plugin -O auto-policy.plugin
 proxychains wget https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/bilibili.plugin -O bilibili.plugin
 proxychains wget https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/YouTubeAds.plugin -O YouTubeAds.plugin
-proxychains wget https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-JP.plugin -O TikTok-JP.plugin
-proxychains wget https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-TW.plugin -O TikTok-TW.plugin
-proxychains wget https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-KR.plugin -O TikTok-KR.plugin
-proxychains wget https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-KR.plugin -O TikTok-KR.plugin
-proxychains wget https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-US.plugin -O TikTok-US.plugin
+#proxychains wget https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-JP.plugin -O TikTok-JP.plugin
+#proxychains wget https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-TW.plugin -O TikTok-TW.plugin
+#proxychains wget https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-KR.plugin -O TikTok-KR.plugin
+#proxychains wget https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-KR.plugin -O TikTok-KR.plugin
+#proxychains wget https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-US.plugin -O TikTok-US.plugin
 
 pause
