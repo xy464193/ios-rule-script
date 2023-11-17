@@ -35,4 +35,5 @@ proxychains wget https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/
 proxychains wget https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaASN/ChinaASN.list -O ChinaASN.list
 proxychains wget https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Spotify/Spotify.list -O Spotify.list
 proxychains wget https://raw.githubusercontent.com/mphin/ACL4SSR/main/rules/ProxyGFWlist.list -O ProxyGFWlist.list
+proxychains wget https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/UnionPay/UnionPay.list -O UnionPay.list
 pause
