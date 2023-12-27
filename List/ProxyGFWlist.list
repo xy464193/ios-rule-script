@@ -1,19 +1,18 @@
 # 内容: ✈️ 国外常规 规则集
 # 备注: 本列表为国外常规代理域名，不含Telegram、OpenAi及媒体，移步至https://github.com/mphin/ACL4SSR
-# 更新: 2023年11月03日12:43:10
-# 数量: 6054条
+# 更新: 2023年12月17日15:19:45
+# 数量: 6044条
+
+# Twitter
+DOMAIN-SUFFIX,cms-twdigitalassets.com
+DOMAIN-SUFFIX,tellapart.com
+DOMAIN-SUFFIX,twtrdns.net
+DOMAIN-SUFFIX,twttr.net
+DOMAIN-SUFFIX,twvid.com
+DOMAIN-SUFFIX,x.com
 
 # Github
-IP-CIDR,140.82.113.25/32,no-resolve
-IP-CIDR,140.82.113.26/32,no-resolve
-IP-CIDR,140.82.114.25/32,no-resolve
-IP-CIDR,20.205.243.166/32,no-resolve
-IP-CIDR,20.205.243.168/32,no-resolve
-# > 镜像仓库
 DOMAIN-SUFFIX,ghcr.io
-
-# Google
-IP-CIDR,172.217.160.74/32,no-resolve
 
 # 知识交流
 DOMAIN-SUFFIX,bulianglin.com
@@ -21,6 +20,7 @@ DOMAIN-SUFFIX,clashios.com
 DOMAIN-SUFFIX,duangks.com
 DOMAIN-SUFFIX,ffqla.net
 DOMAIN-SUFFIX,getupnote.com
+DOMAIN-SUFFIX,ishowutv.com
 DOMAIN-SUFFIX,telghub.com
 DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,vpnse.org
@@ -33,12 +33,16 @@ IP-CIDR,34.120.195.249/32,no-resolve
 # > CDN
 DOMAIN-SUFFIX,maxcdn.bootstrapcdn.com
 # > 图床
-DOMAIN,sm.ms
+DOMAIN-SUFFIX,sm.ms
 
 # 工具
+DOMAIN-SUFFIX,adguard-vpn.com
 DOMAIN-SUFFIX,gpt4all.io
+DOMAIN-SUFFIX,imyfone.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,wirewax.com
+# > Surge
+DOMAIN-SUFFIX,nssurge.com
 # > Docker
 DOMAIN-SUFFIX,docker.io
 # > 工具导航
@@ -48,11 +52,12 @@ DOMAIN-SUFFIX,007.tg
 DOMAIN-SUFFIX,godaddy.com
 
 # VPN相关
-DOMAIN-SUFFIX,bajie.pw
+DOMAIN-SUFFIX,bajie.one
+DOMAIN-SUFFIX,bajie.run
+DOMAIN-SUFFIX,bajie.wiki
 DOMAIN-SUFFIX,ktmcloud.shop
 DOMAIN-SUFFIX,kuromis.com
 DOMAIN-SUFFIX,xf.gl
-DOMAIN-SUFFIX,xfltd.org
 DOMAIN-SUFFIX,xn--6nq44r2uh9rhj7f.com
 DOMAIN-SUFFIX,xn--ehqx7tcnnope.com
 DOMAIN-SUFFIX,xn--lmq622c7qjhl4a.com
@@ -279,7 +284,6 @@ DOMAIN-SUFFIX,addyoutube.com
 DOMAIN-SUFFIX,adelaidebbs.com
 DOMAIN-SUFFIX,admob.com
 DOMAIN-SUFFIX,adpl.org.hk
-DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,adsense.com
 DOMAIN-SUFFIX,adult-sex-games.com
 DOMAIN-SUFFIX,adultfriendfinder.com
@@ -596,7 +600,6 @@ DOMAIN-SUFFIX,bell.wiki
 DOMAIN-SUFFIX,bemywife.cc
 DOMAIN-SUFFIX,beric.me
 DOMAIN-SUFFIX,berlinerbericht.de
-DOMAIN-SUFFIX,berlintwitterwall.com
 DOMAIN-SUFFIX,berm.co.nz
 DOMAIN-SUFFIX,bestforchina.org
 DOMAIN-SUFFIX,bestgore.com
@@ -1715,7 +1718,6 @@ DOMAIN-SUFFIX,filesor.com
 DOMAIN-SUFFIX,fillthesquare.org
 DOMAIN-SUFFIX,filmingfortibet.org
 DOMAIN-SUFFIX,filthdump.com
-DOMAIN-SUFFIX,financetwitter.com
 DOMAIN-SUFFIX,finchvpn.com
 DOMAIN-SUFFIX,findmespot.com
 DOMAIN-SUFFIX,findyoutube.com
@@ -4458,7 +4460,6 @@ DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,sijihuisuo.club
 DOMAIN-SUFFIX,sijihuisuo.com
 DOMAIN-SUFFIX,silkbook.com
-DOMAIN-SUFFIX,simbolostwitter.com
 DOMAIN-SUFFIX,simplecd.org
 DOMAIN-SUFFIX,simpleproductivityblog.com
 DOMAIN-SUFFIX,sina.com.hk
@@ -5099,7 +5100,6 @@ DOMAIN-SUFFIX,tunsafe.com
 DOMAIN-SUFFIX,turansam.org
 DOMAIN-SUFFIX,turbobit.net
 DOMAIN-SUFFIX,turbohide.com
-DOMAIN-SUFFIX,turbotwitter.com
 DOMAIN-SUFFIX,turkistantimes.com
 DOMAIN-SUFFIX,turntable.fm
 DOMAIN-SUFFIX,tushycash.com
@@ -5184,16 +5184,6 @@ DOMAIN-SUFFIX,twitonmsn.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitstat.com
 DOMAIN-SUFFIX,twittbot.net
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,twitter.jp
-DOMAIN-SUFFIX,twitter4j.org
-DOMAIN-SUFFIX,twittercounter.com
-DOMAIN-SUFFIX,twitterfeed.com
-DOMAIN-SUFFIX,twittergadget.com
-DOMAIN-SUFFIX,twitterkr.com
-DOMAIN-SUFFIX,twittermail.com
-DOMAIN-SUFFIX,twitterrific.com
-DOMAIN-SUFFIX,twittertim.es
 DOMAIN-SUFFIX,twitthat.com
 DOMAIN-SUFFIX,twitturk.com
 DOMAIN-SUFFIX,twitturly.com
