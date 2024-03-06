@@ -1,37 +1,39 @@
-# NAME: Openai
-# AUTHOR: hux
+# NAME: OpenAI
+# AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-03-18
+# UPDATED: 2024-02-25 16:06:04
+# DOMAIN: 2
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 12
-# IP-CIDR: 14
-# TOTAL: 27
+# DOMAIN-SUFFIX: 23
+# IP-ASN: 1
+# IP-CIDR: 2
+# TOTAL: 29
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,static.cloudflareinsights.com
 DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,cdn.cloudflare.net
 DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,host.livekit.cloud
 DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,observeit.net
 DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-KEYWORD,openai
-IP-CIDR,13.107.213.70/32,no-resolve
-IP-CIDR,13.107.237.69/32,no-resolve
-IP-CIDR,13.107.238.69/32,no-resolve
-IP-CIDR,13.107.246.70/32,no-resolve
-IP-CIDR,172.67.155.131/32,no-resolve
-IP-CIDR,104.21.89.14/32,no-resolve
-IP-CIDR,162.159.128.61/32,no-resolve
-IP-CIDR,162.159.138.60/32,no-resolve
-IP-CIDR,151.101.66.109/32,no-resolve
-IP-CIDR,151.101.194.109/32,no-resolve
-IP-CIDR,151.101.2.109/32,no-resolve
-IP-CIDR,151.101.130.109/32,no-resolve
-IP-CIDR,104.16.168.131/32,no-resolve
-IP-CIDR,104.16.169.131/32,no-resolve
-IP-CIDR,194.9.94.85/32,no-resolve
-IP-CIDR,194.9.94.86/32,no-resolve
+IP-ASN,20473,no-resolve
+IP-CIDR,24.199.123.28/32,no-resolve
+IP-CIDR,64.23.132.171/32,no-resolve
