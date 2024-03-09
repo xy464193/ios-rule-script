@@ -1,0 +1,17 @@
+#!name = cmbc
+#!desc = 民生银行去开屏广告
+#!openUrl = 
+#!author = hux
+#!homepage =
+#!icon =
+#!date = 2024-03-09 11:42:43
+
+
+[Rewrite]
+^https?:\/\/www\.cmbc\.com\.cn\/m\/pub\/\d+\/menu8\/.*\.(jpg|png|gif)
+
+#[Script]
+http-request ^https:\/\/www\.bing\.com\/(search|new) script-path = https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Resource/Script/Bing/BingAI.js, requires-body = false, tag = Bing AI
+
+[Mitm]
+hostname = www.cmbc.com.cn
