@@ -8,10 +8,8 @@
 
 
 [Rewrite]
-^https?:\/\/www\.cmbc\.com\.cn\/m\/pub\/\d+\/menu8\/.*\.(jpg|png|gif)
+^https?:\/\/www\.cmbc\.com\.cn\/m\/pub\/\d+\/menu8\/.*\.(jpg|png|gif) reject
 
-#[Script]
-http-request ^https:\/\/www\.bing\.com\/(search|new) script-path = https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Resource/Script/Bing/BingAI.js, requires-body = false, tag = Bing AI
 
 [Mitm]
 hostname = www.cmbc.com.cn
