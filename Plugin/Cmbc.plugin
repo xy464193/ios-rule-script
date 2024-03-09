@@ -8,7 +8,7 @@
 
 
 [Rewrite]
-^https?:\/\/www\.cmbc\.com\.cn\/m\/pub\/\d+\/menu8\/.*\.(jpg|png|gif) reject
+^https:\/\/www\.cmbc\.com\.cn\/m\/pub\/\d+\/menu8\/.*\.(jpg|png|gif) - reject
 
 
 [Mitm]
