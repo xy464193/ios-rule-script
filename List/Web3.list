@@ -3,9 +3,9 @@
 # REPO: https://github.com/xy464193/ios-rule-script
 # UPDATED: 2025-11-01T20:04:40+08:00
 # DOMAIN: 3
-# DOMAIN-KEYWORD: 7
-# DOMAIN-SUFFIX: 285
-# TOTAL: 295
+# DOMAIN-KEYWORD: 8
+# DOMAIN-SUFFIX: 289
+# TOTAL: 300
 
 # Forum
 DOMAIN-SUFFIX,bitcointalk.org
@@ -91,13 +91,19 @@ DOMAIN-SUFFIX,boba.network
 #DOMAIN-SUFFIX,bnbstatic.com
 
 # BitGet
-DOMAIN-SUFFIX, bitget.com
-DOMAIN-SUFFIX, bitget.org
-DOMAIN-SUFFIX, bitget.club
-DOMAIN-SUFFIX, bitget.xyz
-DOMAIN-SUFFIX, bitgetapp.com
-DOMAIN-SUFFIX, bitgetapps.com
-DOMAIN-KEYWORD, bitget
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bitget.org
+DOMAIN-SUFFIX,bitget.club
+DOMAIN-SUFFIX,bitget.xyz
+DOMAIN-SUFFIX,bitget.vip
+DOMAIN-SUFFIX,bitapi.vip
+DOMAIN-SUFFIX,bitkeep.vip
+DOMAIN-SUFFIX,bitkeep.fun
+DOMAIN-SUFFIX,bitkeep.app
+DOMAIN-SUFFIX,bitgetapp.com
+DOMAIN-SUFFIX,bitgetapps.com
+DOMAIN-KEYWORD,bitget
+DOMAIN-KEYWORD,bitkeep
 
 # Huobi
 DOMAIN-SUFFIX,hbabit.com
